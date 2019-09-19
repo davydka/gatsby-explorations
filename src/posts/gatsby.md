@@ -5,6 +5,8 @@ date: '2019-09-19'
 
 I just launched a new brochure site!
 
+![nic](./nic.jpg)
+
 ## Topics Covered
 
 1. Gatsby
