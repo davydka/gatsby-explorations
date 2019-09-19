@@ -6,8 +6,8 @@
 
 module.exports = {
     siteMetadata: {
-        title: 'what is full stack anyways?',
-        author: 'davydka'
+        title: 'Gatsby1001',
+        author: 'DAVYDKA'
     },
     plugins: [
         'gatsby-plugin-sass'
